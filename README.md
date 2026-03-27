@@ -1,7 +1,7 @@
 # Product Catalog App
 A minimal but functional product catalog application with a REST API backend and React frontend
 
-<img width="1077" height="798" alt="image" src="https://github.com/user-attachments/assets/a9040b97-93a0-449a-bada-90db1f6f03f4" />
+<img width="1066" height="799" alt="image" src="https://github.com/user-attachments/assets/091504ec-7886-4d87-8789-6b112b112351" />
 
 ## Tech Stack
 
