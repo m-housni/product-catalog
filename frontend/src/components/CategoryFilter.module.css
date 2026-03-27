@@ -1,0 +1,42 @@
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+
+.pill {
+  padding: 8px 16px;
+  border: 1px solid #e5e7eb;
+  border-radius: 999px;
+  background: #fff;
+  color: #374151;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+
+.pill:hover {
+  border-color: #6366f1;
+  color: #6366f1;
+}
+
+.active {
+  background: #6366f1;
+  color: #fff;
+  border-color: #6366f1;
+}
+
+.active:hover {
+  background: #4f46e5;
+  border-color: #4f46e5;
+  color: #fff;
+}
+
+.count {
+  font-size: 0.75rem;
+  opacity: 0.7;
+  margin-left: 4px;
+}
